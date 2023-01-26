@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70235199487",
+    "project_id": "fir-testing-e083a",
+    "storage_bucket": "fir-testing-e083a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70235199487:android:4c6e1dd498c6d0853939ca",
+        "android_client_info": {
+          "package_name": "com.vinodpatildev.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70235199487-q89omd8qe7mh42l8q1lsqnf7547qota8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDqEd0dt7pYi5j_cnDsZvHrpEPdpsoNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70235199487-q89omd8qe7mh42l8q1lsqnf7547qota8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
